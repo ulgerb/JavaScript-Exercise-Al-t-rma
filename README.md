@@ -1,6 +1,10 @@
 # JavaScript-Exercise-Al-t-rma
 JavaScript Exercise || Example || Alıştırma ||Örnekler
 
+- Yakında DOM ve diğer methotlarda eklenicek.
+- Python, C++ için de oluştumayı düşünüyorum.
+
+
     var arr1 = [1,2,3,4,6,5];
     var arr2 = ["a", "b", "g", "c", "y", "k", "c"]
     var array1 = ["bir", "iki",1,2,4,3,"1"];
