@@ -1,8 +1,8 @@
 # JavaScript-Exercise-Al-t-rma
 JavaScript Exercise || Example || Alıştırma ||Örnekler
 
-- Yakında DOM ve diğer methotlarda eklenicek.
-- Python, C++ için de oluştumayı düşünüyorum.
+-Yakında DOM ve diğer methotlarda eklenicek.
+-Python, C++ için de oluştumayı düşünüyorum.
 
 
     var arr1 = [1,2,3,4,6,5];
