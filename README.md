@@ -2,7 +2,7 @@
 JavaScript Exercise || Example || Alıştırma ||Örnekler
 JavaScript Methot || DOM || Properties || Array || Object || Function || Filter 
 
--Yakında DOM ve diğer methotlarda eklenicek.
+-Yakında DOM ve diğer methotlarda eklicem.
 -Python, C++ için de oluştumayı düşünüyorum.
 
 
