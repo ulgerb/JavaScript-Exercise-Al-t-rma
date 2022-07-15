@@ -1,5 +1,6 @@
 # JavaScript-Exercise-Al-t-rma
 JavaScript Exercise || Example || Alıştırma ||Örnekler
+JavaScript Methot || DOM || Properties || Array || Object || Function || Filter 
 
 -Yakında DOM ve diğer methotlarda eklenicek.
 -Python, C++ için de oluştumayı düşünüyorum.
