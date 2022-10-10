@@ -2,8 +2,7 @@
 JavaScript Exercise || Example || Alıştırma ||Örnekler
 JavaScript Methot || DOM || Properties || Array || Object || Function || Filter 
 
--Yakında DOM ve diğer methotlarda eklicem.
--Python, C++ için de oluştumayı düşünüyorum.
+
 
 
     var arr1 = [1,2,3,4,6,5];
